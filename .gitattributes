@@ -1,0 +1,23 @@
+* text=auto
+
+*.cs text eol=lf
+*.meta text eol=lf
+
+*.unity binary
+*.prefab binary
+*.mat binary
+*.asset binary
+*.controller binary
+*.anim binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.mp3 binary
+*.ogg binary
+*.wav binary
+*.dll binary
+*.exe binary
+
+*.sln text eol=crlf
+*.csproj text eol=crlf
