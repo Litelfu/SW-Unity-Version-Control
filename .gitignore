@@ -4,6 +4,8 @@
 [Bb]uilds/
 [Oo]bj/
 [Mm]emoryCaptures/
+Logs/
+UserSettings/
 .logs/
 sysinfo.txt
 *.csproj
